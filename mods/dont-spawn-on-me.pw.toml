@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/BamsyTheSergal/Hearthwild/raw/refs/heads/main/dontspawnonme-forge-1.20.1-1.0.0-hearthwild-fixed.jar"
 hash-format = "sha256"
-hash = "5c76e221335e8b109168a5f1d968444ff957ea7ae28b31fdcae2ab8f26eb60b6"
+hash = "fbdc0b8b6387369ffc6ad709de6a7d2452181becc6db0d8deeee8519e67ceee9"
