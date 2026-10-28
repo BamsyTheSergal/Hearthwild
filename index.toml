@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/dont-spawn-on-me.pw.toml"
-hash = "7a90a1777814abd279e5dfdb60602b7a05aa864977293e64cc36f85bbbe56368"
+hash = "3d895ed10d7ebc949fd3e3ef43a11b7e94a83ab694f2cd7a4c5af0e962ea7bbd"
 metafile = true
 
 [[files]]
