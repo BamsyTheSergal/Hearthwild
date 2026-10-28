@@ -244,6 +244,11 @@ hash = "44896615bc1b3a9f6f7a548238aacc7968c0e52f875e02a1f0c2447067cc7eba"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-devotion.pw.toml"
+hash = "802a2bdbfc0d0dd4570a8264a43a5c0cc25e680d03cbf15b4bc6250ac1ee1687"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-jei-prefilter.pw.toml"
 hash = "1cc863db97c3320f9da8f0b8a2a49995022633410d623bb43ee13f82e9939668"
 metafile = true
