@@ -249,6 +249,11 @@ hash = "e90538e6524ee9cf11c2b66702f1b3c56ca3a20a5dbc6bb13f91a526a0dd76fa"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-things-json.pw.toml"
+hash = "89f28f6668edc5ffd24b05ba736943ee2d92e0c49ad3ea9421c217464746640a"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-things.pw.toml"
 hash = "c6d56788abcff156f1bfe0aab066c8f37df1cc6a382c2c5b8991ff5fe5912ff5"
 metafile = true
