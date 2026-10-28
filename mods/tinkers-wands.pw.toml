@@ -3,8 +3,8 @@ filename = "TinkersWands-1.20.1-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4a26733c27431f704c0c5199010a0aa14831061b"
+hash-format = "sha256"
+hash = "9053c14e5b4fb10bdf81a21cda035616451769d522ffff37e823158b3366578b"
 mode = "metadata:curseforge"
 
 [update]

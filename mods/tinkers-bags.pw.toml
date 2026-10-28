@@ -3,8 +3,8 @@ filename = "TinkersBags-1.20.1-1.1.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6e6d5c670e106bc01bc440008fa1b151b8cc10f5"
+hash-format = "sha256"
+hash = "444dfce7fd04bfa934a1686c28a41da7cdcdc4374c85a75ff82f1f12337f311a"
 mode = "metadata:curseforge"
 
 [update]

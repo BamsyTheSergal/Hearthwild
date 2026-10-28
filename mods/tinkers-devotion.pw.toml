@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CfvOYP38/versions/14eKo1aX/tinkersdevotion-1.3.0.jar"
-hash-format = "sha512"
-hash = "6bed103e13d4a04203b88833f532d97dc018336938feef32d9c1ed3d97788e4c3717b7c626071b66c784eebcc4a530404c7ae3a08702848ed2755ce59cfea78a"
+hash-format = "sha256"
+hash = "20b97f1ebb731b745c1d2d96805621a97b75aee1d44a01e9de25a3c51bc024bb"
 
 [update]
 [update.modrinth]

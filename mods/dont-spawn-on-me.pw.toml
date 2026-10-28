@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/jJ2Hx096/versions/zKsMt1JI/dontspawnonme-forge-1.20.1-1.0.0.jar"
-hash-format = "sha512"
-hash = "46a459a5ea2a4d725fa06c5eb495828426c5e4290f7810e81890957c41fb08ff521bce9461e238c45911d20ea46a7ff404a55a5ab83522790d406dbb18909d80"
+hash-format = "sha256"
+hash = "89811f8bee9688d193ee6bd760fae79f904c3f5c22dd5039c83b7a1188234b92"
 
 [update]
 [update.modrinth]

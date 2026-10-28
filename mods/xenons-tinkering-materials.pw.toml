@@ -3,8 +3,8 @@ filename = "XenonMaterials-1.20.1-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0ae277d2fe461fe44b60834c13c9853a9c3a1efd"
+hash-format = "sha256"
+hash = "d7719a602585c45ccefe60dcbfd28f2cc89cadb1197bf6d6f96c3b8d347c429d"
 mode = "metadata:curseforge"
 
 [update]

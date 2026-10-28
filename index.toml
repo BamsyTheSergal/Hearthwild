@@ -90,7 +90,7 @@ hash = "cd31b10e4ffb85cbe72cf3ad016e9a82e5ae9d50d1393773024b484d7d9b4b7a"
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "5922845f6c9bb57548eca500857ebd2268bffe3799373b7306c2bdfb706d5f95"
+hash = "173198cfb6a3924ef1f2ffd512d7365f470f0f19ea02e20834811a3c44530212"
 metafile = true
 
 [[files]]
@@ -110,12 +110,12 @@ metafile = true
 
 [[files]]
 file = "mods/constructs-arsenal.pw.toml"
-hash = "d80f601cccf0bdad261ea63931bae901836aa4ab59fd5b1638c67d6edc69ff55"
+hash = "112e24e1da0dc7d78902432bd27f9e2269c3c7f7889e575a76f011b69938a0f5"
 metafile = true
 
 [[files]]
 file = "mods/dont-spawn-on-me.pw.toml"
-hash = "9669dda40e4e641d50310c8dd56542cb08af615c68e3651c10f0db49300eadc4"
+hash = "ff27d4749c89f37c4b800103a03f46eb960617a99d66e5be3cebb46951c05a82"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "66bcfe786e6bbdee6f7ea0805ec3d2561b41285a5c77f1e465e80f4c2fd9200c"
+hash = "ca41a653055f3b85eb5e922ad3a5cd3bbb52d24cdb5a7adbac06e1a8d5239281"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "75e054a74743fc397cb7b1a0ce16d5456cb895a1f4c188e1278068577aa56739"
+hash = "232353857559f62c2d8f203b677616e4d12a421058c938d849bf460f1affeb4a"
 metafile = true
 
 [[files]]
@@ -230,12 +230,12 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-bags.pw.toml"
-hash = "6c5fc7cda4bd0505425bc0a7739c8dfee36824365883300aed51ad8a7825eaba"
+hash = "c1117818b1ad35a493f1c861497d8b50281a4fda4245d7742774605b10b238d2"
 metafile = true
 
 [[files]]
 file = "mods/tinkers-battle-spades.pw.toml"
-hash = "50820e3a064a2a7bc6a09c7001a3cd9498e0b8bf8bb24338613cf17f20607731"
+hash = "832bad5f224cbac407c25d1f4c05266cb0007d58283f9611cecdd9b4fa58dbeb"
 metafile = true
 
 [[files]]
@@ -245,17 +245,17 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-devotion.pw.toml"
-hash = "802a2bdbfc0d0dd4570a8264a43a5c0cc25e680d03cbf15b4bc6250ac1ee1687"
+hash = "d1337f5893fb86b42eeddf542cacb1e3c39e2438b57c67cf91f1d570e67dd21c"
 metafile = true
 
 [[files]]
 file = "mods/tinkers-jei-prefilter.pw.toml"
-hash = "1cc863db97c3320f9da8f0b8a2a49995022633410d623bb43ee13f82e9939668"
+hash = "ef55f5da47aa5fd681addbc2186e3e3976d5ebbcdcc23f5a239c14f8540692e7"
 metafile = true
 
 [[files]]
 file = "mods/tinkers-katanas.pw.toml"
-hash = "2e9c47ba2106574130bf906210bf769440d2c568fce91507504c1deaa367a680"
+hash = "1fe51897f08002041eda51250104cb04be81222b59e7a8453993be9867c3aa40"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-things-json.pw.toml"
-hash = "89f28f6668edc5ffd24b05ba736943ee2d92e0c49ad3ea9421c217464746640a"
+hash = "6beb503922ea96186288a5870a7c287626ac6fd878bd106b5d6dab73652d6f54"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-wands.pw.toml"
-hash = "6e118863c5b7c289863b2e735c03943dd17593e158b2d24d1893e4e315d5c258"
+hash = "abab28d47e5821918d8b9e961a778a0e23c57de5500ea47f43eeb601356927d2"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/xenons-tinkering-materials.pw.toml"
-hash = "476acfb2a4ea250cd40e4961a01847f04cd1916d1f06550b988b5a375af43bd9"
+hash = "0d8f0ff46751ac5cf71640ae2a620077f753da86ba2e88b897d68c2caec32ea1"
 metafile = true
 
 [[files]]

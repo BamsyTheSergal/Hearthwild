@@ -3,8 +3,8 @@ filename = "ConstructsArsenal-1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "33c145a28bd46e47a9449f1b43b14f83a765c33e"
+hash-format = "sha256"
+hash = "811beba01aca1b6798863b990fae704bf2874c0308b5fd22abe8b75c84106a9b"
 mode = "metadata:curseforge"
 
 [update]

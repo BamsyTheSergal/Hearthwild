@@ -3,8 +3,8 @@ filename = "TinkersKatanas-1.20.1-1.6.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e9077ef6df201e68d1f1e08a1589d7091fbadb92"
+hash-format = "sha256"
+hash = "2d93a7264840815f7c6430fe9ee515f06dec85b9523da962bdc2e6dd892d500e"
 mode = "metadata:curseforge"
 
 [update]
