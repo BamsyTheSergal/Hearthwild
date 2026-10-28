@@ -82,7 +82,7 @@ hash = "1bc16f3f1c7a3816f89e0a98bc4ed76bab9139e20e25be68d70883a2fa22e237"
 
 [[files]]
 file = "kubejs/server_scripts/starting_gear.js"
-hash = "91bea48f978d67bd8e19e9bdc04cf0d9b16457a9c529dcff98ab7536abeda551"
+hash = "b9224dfe8ad465fdc386c69756c514733f1d41024ac9cc9272fdaa9d2a914c0c"
 
 [[files]]
 file = "kubejs/startup_scripts/rich_poor_iron_ores.js"
