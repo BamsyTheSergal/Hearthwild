@@ -1,0 +1,13 @@
+name = "Construct's Arsenal"
+filename = "ConstructsArsenal-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33c145a28bd46e47a9449f1b43b14f83a765c33e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9076967
+project-id = 1533381

@@ -109,6 +109,11 @@ hash = "2630ad55b9b72178e1321cd627b33e7765b127656b6a7996dd75f1eba1f25ca0"
 metafile = true
 
 [[files]]
+file = "mods/constructs-arsenal.pw.toml"
+hash = "d80f601cccf0bdad261ea63931bae901836aa4ab59fd5b1638c67d6edc69ff55"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "8c1b55d29559d89437272f58baee1d142898b0a1a2a105f0d419cef208c3ce3d"
 metafile = true
@@ -214,8 +219,28 @@ hash = "3ea51b5123ab705b054964f21f0906f36e295e2307f034105d51798566a9919d"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-bags.pw.toml"
+hash = "6c5fc7cda4bd0505425bc0a7739c8dfee36824365883300aed51ad8a7825eaba"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-battle-spades.pw.toml"
+hash = "50820e3a064a2a7bc6a09c7001a3cd9498e0b8bf8bb24338613cf17f20607731"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "44896615bc1b3a9f6f7a548238aacc7968c0e52f875e02a1f0c2447067cc7eba"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-jei-prefilter.pw.toml"
+hash = "1cc863db97c3320f9da8f0b8a2a49995022633410d623bb43ee13f82e9939668"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-katanas.pw.toml"
+hash = "2e9c47ba2106574130bf906210bf769440d2c568fce91507504c1deaa367a680"
 metafile = true
 
 [[files]]
@@ -234,8 +259,18 @@ hash = "b9578bdbb0c76eb36ab3cf568c36ce81e5a377f48552bf304a858b861852f5fa"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-wands.pw.toml"
+hash = "6e118863c5b7c289863b2e735c03943dd17593e158b2d24d1893e4e315d5c258"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "0139feac8c5e0fa0707d79d392b2beacf43e9bf703b471f1bd28a49ab94175a2"
+metafile = true
+
+[[files]]
+file = "mods/xenons-tinkering-materials.pw.toml"
+hash = "476acfb2a4ea250cd40e4961a01847f04cd1916d1f06550b988b5a375af43bd9"
 metafile = true
 
 [[files]]

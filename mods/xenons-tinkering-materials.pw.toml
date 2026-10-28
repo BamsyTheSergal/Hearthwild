@@ -1,0 +1,13 @@
+name = "Xenon's Tinkering Materials"
+filename = "XenonMaterials-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ae277d2fe461fe44b60834c13c9853a9c3a1efd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9334185
+project-id = 1727967

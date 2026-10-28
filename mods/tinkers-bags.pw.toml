@@ -1,0 +1,13 @@
+name = "Tinkers' Bags"
+filename = "TinkersBags-1.20.1-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e6d5c670e106bc01bc440008fa1b151b8cc10f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9113377
+project-id = 1639985

@@ -1,0 +1,13 @@
+name = "Tinkers JEI Prefilter"
+filename = "jei-tinkers-prefilter-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "806b21605f8f54129523342c2c9b05d08d3b60a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8809209
+project-id = 1655420
