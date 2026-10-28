@@ -1,0 +1,13 @@
+name = "Hearthwild"
+author = "Bamsy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ffc42e50e1cd5226dc2448068a6413471a544d7a0245b908a21329894563fd72"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"
