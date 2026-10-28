@@ -81,6 +81,10 @@ file = "kubejs/data/kubejs/loot_tables/blocks/rich_limonite_ore.json"
 hash = "1bc16f3f1c7a3816f89e0a98bc4ed76bab9139e20e25be68d70883a2fa22e237"
 
 [[files]]
+file = "kubejs/server_scripts/regions_unexplored_kama.js"
+hash = "6530c572ead116bf9c7bcd4cec6a46444070ce940360e4a994af8e73c285ff5b"
+
+[[files]]
 file = "kubejs/server_scripts/starting_gear.js"
 hash = "b9224dfe8ad465fdc386c69756c514733f1d41024ac9cc9272fdaa9d2a914c0c"
 
