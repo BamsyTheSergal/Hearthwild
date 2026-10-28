@@ -114,6 +114,11 @@ hash = "d80f601cccf0bdad261ea63931bae901836aa4ab59fd5b1638c67d6edc69ff55"
 metafile = true
 
 [[files]]
+file = "mods/dont-spawn-on-me.pw.toml"
+hash = "9669dda40e4e641d50310c8dd56542cb08af615c68e3651c10f0db49300eadc4"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "8c1b55d29559d89437272f58baee1d142898b0a1a2a105f0d419cef208c3ce3d"
 metafile = true
@@ -171,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "7d2c2d0651aa9b4aec42d4598d06e7f6b3f8a0dae182eec02cf20ed155ec7fa9"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "66bcfe786e6bbdee6f7ea0805ec3d2561b41285a5c77f1e465e80f4c2fd9200c"
 metafile = true
 
 [[files]]
