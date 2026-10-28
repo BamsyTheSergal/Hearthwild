@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/HUUJcFnt/entityculling-forge-1.11.3-mc1.20.1.jar"
-hash-format = "sha512"
-hash = "be5be53897ae7403a202e4b0b094701bcc4ecdb94afcf2ea144cd07d9a4553a1fc6a88917732a72c477d01c33583162cffb9c4a19d259089deb018878eec1da8"
+hash-format = "sha256"
+hash = "86de2a9fc6538bc26e71e5393ae72018eb9bb349a5dbaa0645fd194da5654b66"
 
 [update]
 [update.modrinth]

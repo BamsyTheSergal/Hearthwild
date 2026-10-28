@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/hH9lasoK/jei-1.20.1-forge-15.74.0.232.jar"
-hash-format = "sha512"
-hash = "4138634fb0a4f962a57f6dd10c875aaaae332ca30846719b9e94fdf9342f19ae4f36a6a83c3d49b6095a0a3a859bb65175f61433a2a304ab791aa8c919f65906"
+hash-format = "sha256"
+hash = "62d2856ba5cca459d1e7d051429f78278c9f99b7e25de4e51667ea95aee0f6a5"
 
 [update]
 [update.modrinth]

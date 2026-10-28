@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Cg6Uc79H/versions/37ccXi7G/Mantle-1.20.1-1.11.117.jar"
-hash-format = "sha512"
-hash = "9851a78342f4bc0e44de2c9c4ab90ad16e5fb11ced94ff7620aeb8c3fde9ec68ef11f17e53d98d7cdb64ef9b6c6d4a8a7d065d60f5f7df062cf2836d40e70934"
+hash-format = "sha256"
+hash = "bcb9681f78dde0da7e63e92abb341dc0dc09503fc1ab78c96f9d40571edc240d"
 
 [update]
 [update.modrinth]
