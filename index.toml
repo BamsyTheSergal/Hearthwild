@@ -134,6 +134,11 @@ hash = "491e568f79ba387497a3056020b0fa5d961b400e5237e45af32ded00eb19b6c9"
 metafile = true
 
 [[files]]
+file = "mods/fastleafdecay.pw.toml"
+hash = "8bff394ff0410e8b74dcf6497cd26f8a1e7d790224dc8ce70129bbc985224102"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4acc2c7bde66e6cd4940978ce206bde20e2ce512b1bd2c3f669864555fa79a1a"
 metafile = true

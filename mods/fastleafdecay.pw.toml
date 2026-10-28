@@ -1,0 +1,13 @@
+name = "FastLeafDecay"
+filename = "fastleafdecay-forge-1.20-26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FnE6S0Zk/versions/Zl6rNgdD/fastleafdecay-forge-1.20-26.3.jar"
+hash-format = "sha256"
+hash = "67440c4068107652afb4044ad13bd47df4d3b3409626b7f8dd76c20919c72a4d"
+
+[update]
+[update.modrinth]
+mod-id = "FnE6S0Zk"
+version = "Zl6rNgdD"
