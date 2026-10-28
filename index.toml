@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ca194d26054871c2f57c319a2a5974d4798c259146f23dd1da968fd5000ebc2c"
+hash = "ba33aa23460e403c3572daa01cdffef1c48bbc371851216caa5c7bc7b3aaf7c6"
 metafile = true
 
 [[files]]
@@ -164,6 +164,16 @@ hash = "c0452b2f93522355316fb71583e6d4bb3c44aeada9d20eb8fb7b71bc8d7114c0"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "6636848fc9ee060dc3cdabab2bac8d36e7414e0d149f365a5f88e16ed107c832"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "f9de7fb14787de26d5991d018bc4d9df8eaf080c390c09997627b3f526599115"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "c569b1a5a9e540980bdd1cc2fec84e76fc0a69542148141fb0e76771cf83bbbd"
 metafile = true
@@ -201,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "232353857559f62c2d8f203b677616e4d12a421058c938d849bf460f1affeb4a"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7c323d0b883a0178d2fbb6c5da22e907420e06484a00c18bfe8c19ccbe502833"
 metafile = true
 
 [[files]]
@@ -281,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-wands.pw.toml"
 hash = "abab28d47e5821918d8b9e961a778a0e23c57de5500ea47f43eeb601356927d2"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "7e5ad3ab8c86e91909375084538512a547b841ef78b3b9293441185a5fbda933"
 metafile = true
 
 [[files]]
