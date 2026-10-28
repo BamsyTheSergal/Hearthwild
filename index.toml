@@ -89,6 +89,11 @@ file = "kubejs/startup_scripts/rich_poor_iron_ores.js"
 hash = "cd31b10e4ffb85cbe72cf3ad016e9a82e5ae9d50d1393773024b484d7d9b4b7a"
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "5922845f6c9bb57548eca500857ebd2268bffe3799373b7306c2bdfb706d5f95"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "2868855bd6b90b1fad1c3210715fc403029f4e66368a7100854aed359005d2e4"
 metafile = true
