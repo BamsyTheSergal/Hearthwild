@@ -1,6 +1,94 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/poor_deepslate_hematite_ore.png"
+hash = "089e6f9c66521e5942c114186e837b403ecd47581b8f5daa53f5bee3461e6775"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/poor_deepslate_limonite_ore.png"
+hash = "486c897cf94a7af96cebdfb171b3a0ba3ae01c44880da46dacac4926661abf70"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/poor_hematite_ore.png"
+hash = "5d586019b7c818aa1a7cfff0735d95bb734c0d9cc457d953e88e78dbbe9564bb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/poor_limonite_ore.png"
+hash = "454192509a8861dcc4a810edfa23fce4407079ba1a84e79b966febff8529a4ab"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/rich_deepslate_hematite_ore.png"
+hash = "106937738bbe6780f51da3735b487bcfbd0ab97c67ea893df0cceddc941c4a47"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/rich_deepslate_limonite_ore.png"
+hash = "774c4b0728610902ee5067c7ca104d3d3ba42575b370f5acfdb6c3a2a15a5c7b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/rich_hematite_ore.png"
+hash = "37f99131e9b34be43a6b72fd67d97e52505bddbcade903a678481ed36712a9d3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/rich_limonite_ore.png"
+hash = "746bd4bff593681bc5dbda833e5ac0ff96a76a2a4b05dfd92e924f611bde5bfd"
+
+[[files]]
+file = "kubejs/data/custom_ores/deposits/ore/poor_hematite.json"
+hash = "2726364c1c9c40f3d0fbee09df3b57c163a31687cb20f4e2c0575e4855400c05"
+
+[[files]]
+file = "kubejs/data/custom_ores/deposits/ore/poor_limonite.json"
+hash = "e243005fcfbf7ccec8f6a3ce06a0cc6c6aab706013fb4fd2b7c4296d267ee420"
+
+[[files]]
+file = "kubejs/data/custom_ores/deposits/ore/rich_hematite.json"
+hash = "4404bee68972b9bf862a1d1790db6f2cdeaf4969110aea42fa31d2e4ffb67978"
+
+[[files]]
+file = "kubejs/data/custom_ores/deposits/ore/rich_limonite.json"
+hash = "295a098bd3e8f3442be2baa303cd36d7e799d15c22e17cdd9bc508e37c325df6"
+
+[[files]]
+file = "kubejs/data/kubejs/loot_tables/blocks/poor_deepslate_hematite_ore.json"
+hash = "4527932f10a2188079cb3fbef5e45703b4f83b781c8b7b816a04e7cdcd09b6bb"
+
+[[files]]
+file = "kubejs/data/kubejs/loot_tables/blocks/poor_deepslate_limonite_ore.json"
+hash = "952f1d48bcef42aef8e0bfd0da0b3a1da427faa3ae6e5ce196425d535667fd5c"
+
+[[files]]
+file = "kubejs/data/kubejs/loot_tables/blocks/poor_hematite_ore.json"
+hash = "cb68fe3e20a3eba9e444190b8733e989527cab0bd20d6bd71495aaf82c42da6e"
+
+[[files]]
+file = "kubejs/data/kubejs/loot_tables/blocks/poor_limonite_ore.json"
+hash = "65154dff55dad044453ee7796bf9493dc93091669925f8073f038f0b51dc52ec"
+
+[[files]]
+file = "kubejs/data/kubejs/loot_tables/blocks/rich_deepslate_hematite_ore.json"
+hash = "c7fe543a7c9e540fd661b10fd679a3d4aec812435d07cdd4b9b637c9bc8e00a2"
+
+[[files]]
+file = "kubejs/data/kubejs/loot_tables/blocks/rich_deepslate_limonite_ore.json"
+hash = "4c17a103f626efc4917af6743a30130facd18a650ee8c0c284d39db018fd98b8"
+
+[[files]]
+file = "kubejs/data/kubejs/loot_tables/blocks/rich_hematite_ore.json"
+hash = "30342096029fc579f46057d4f93274f32d4d71a6c257e7cd098be3154c007607"
+
+[[files]]
+file = "kubejs/data/kubejs/loot_tables/blocks/rich_limonite_ore.json"
+hash = "1bc16f3f1c7a3816f89e0a98bc4ed76bab9139e20e25be68d70883a2fa22e237"
+
+[[files]]
+file = "kubejs/server_scripts/starting_gear.js"
+hash = "91bea48f978d67bd8e19e9bdc04cf0d9b16457a9c529dcff98ab7536abeda551"
+
+[[files]]
+file = "kubejs/startup_scripts/rich_poor_iron_ores.js"
+hash = "cd31b10e4ffb85cbe72cf3ad016e9a82e5ae9d50d1393773024b484d7d9b4b7a"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
@@ -66,6 +154,11 @@ hash = "e31178f3fee9d454570d4cbb7b5e2e86429f9bb1748a001d60461dc25913eb4c"
 metafile = true
 
 [[files]]
+file = "mods/json-things.pw.toml"
+hash = "1efef6e736712c66ad307f7eeeb0fb8cf344908c643ebcfada612b8312c2d144"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "9ec37ad87c0c174bdafe7d52fc98f96b83aaef0ad42ae59e196655d3d784f31f"
 metafile = true
@@ -118,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "b46e3f93e85a8ad053d3819073595d33cea4a195c56dba2ab157f963d86afbb7"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-quenching.pw.toml"
+hash = "8d51804989a036928d9ae1b277140fbb05df9faccf93d97260d8aa0adbbab577"
 metafile = true
 
 [[files]]
