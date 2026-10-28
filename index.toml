@@ -163,6 +163,11 @@ hash = "560f5b31ad3583d6ff6c118a7bc513c345218c65ca310212a6173e865096f6c8"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "dc7ac5b7189d8a56363a3a0dcd58e833e6643100c2f99957525458e908654b9a"
+metafile = true
+
+[[files]]
 file = "mods/geolosys.pw.toml"
 hash = "dfb799530694f9e6ab122b6dd5b0f1aed44b08a72f3e78853b899a2ca291d069"
 metafile = true
@@ -310,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "7e5ad3ab8c86e91909375084538512a547b841ef78b3b9293441185a5fbda933"
+metafile = true
+
+[[files]]
+file = "mods/ultimine-unchained.pw.toml"
+hash = "758b2868081834e1edd33431afdaa15b35df2d66854fe6cd518ed5c678eff2db"
 metafile = true
 
 [[files]]
