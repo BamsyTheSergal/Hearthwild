@@ -1,0 +1,42 @@
+{
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": -20,
+    "yMax": 55,
+    "size": 20,
+    "biomeTag": "#geolosys:all_dimensions",
+    "blockStateMatchers": [
+      "minecraft:stone",
+      "minecraft:deepslate"
+    ],
+    "blocks": {
+      "default": [
+        {
+          "block": "kubejs:rich_limonite_ore",
+          "chance": 0.6
+        },
+        {
+          "block": "geolosys:limonite_ore",
+          "chance": 0.4
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "kubejs:rich_deepslate_limonite_ore",
+          "chance": 0.6
+        },
+        {
+          "block": "geolosys:deepslate_limonite_ore",
+          "chance": 0.4
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geolosys:limonite_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 1
+  }
+}
