@@ -1,0 +1,13 @@
+name = "Tinkers' Unexplored"
+filename = "Tinkers-Unexplored-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KapNibCF/versions/qtZuZq2A/Tinkers-Unexplored-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "9ab0c8a533f61cc56a003581210ce20aba503df316f66c0eea9a0058119be851b2e3976270263353a40849808d3104e3f1a736683d113fe9abf619358e07373c"
+
+[update]
+[update.modrinth]
+mod-id = "KapNibCF"
+version = "qtZuZq2A"
