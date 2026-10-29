@@ -213,8 +213,8 @@ hash = "c7116d582a374d2476b4e717ae2d7e95a9181a39785868b22a19e6b5df874ebf"
 metafile = true
 
 [[files]]
-file = "mods/metallic-tinkering.pw.toml"
-hash = "487c3b59d3647f26d8bc6b1c6d89a695c45c3bb8a619023efbaf86c692ac636f"
+file = "mods/metallictinkering.pw.toml"
+hash = "76b20879eefee5c0080711bf157621ed8c461d042160b5912171d47353df95cd"
 metafile = true
 
 [[files]]
