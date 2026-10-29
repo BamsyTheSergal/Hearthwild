@@ -1,0 +1,13 @@
+name = "Sophisticated Core"
+filename = "sophisticatedcore-1.20.1-1.5.17.2435.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/lgpMFM8z/sophisticatedcore-1.20.1-1.5.17.2435.jar"
+hash-format = "sha256"
+hash = "943847f6b3b8d6038f0ae22291dd303bd2604c974a1830a664eb01ad0f8299ef"
+
+[update]
+[update.modrinth]
+mod-id = "nmoqTijg"
+version = "lgpMFM8z"
