@@ -1,0 +1,13 @@
+name = "Tinkers' Mugs"
+filename = "Tinkers-Mugs-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "8367e0e2a578bdc84e014325acba5f143a26a9b2c9dda06fa13e0bed9076537f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8454865
+project-id = 1387686

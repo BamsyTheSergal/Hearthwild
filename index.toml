@@ -213,6 +213,11 @@ hash = "c7116d582a374d2476b4e717ae2d7e95a9181a39785868b22a19e6b5df874ebf"
 metafile = true
 
 [[files]]
+file = "mods/metallic-tinkering.pw.toml"
+hash = "487c3b59d3647f26d8bc6b1c6d89a695c45c3bb8a619023efbaf86c692ac636f"
+metafile = true
+
+[[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "7abf2620bf9c7538cc30d8d77c593d94e64a940ec59e54b5b550cd53d514e099"
 metafile = true
@@ -285,6 +290,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-katanas.pw.toml"
 hash = "1fe51897f08002041eda51250104cb04be81222b59e7a8453993be9867c3aa40"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-mugs.pw.toml"
+hash = "e71adfdcf4410ae06c0f962d87096c58379e63d7f4c2678af46ba41999cbb718"
 metafile = true
 
 [[files]]
