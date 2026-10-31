@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/metallictinkering.pw.toml"
-hash = "e45d0e745add4a33bc9b71f3dd55fcce05f4cf745d4ae3f8130580848c202076"
+hash = "f3b88bd3696340b45b1317c5c3a36a2f051da07f288af19fdccdd3487c642f05"
 metafile = true
 
 [[files]]
