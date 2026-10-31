@@ -98,6 +98,11 @@ hash = "173198cfb6a3924ef1f2ffd512d7365f470f0f19ea02e20834811a3c44530212"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "b218a766c81c7f0c4420db2f42d7b3f06831c124d2828247dd3ba4dd2ac8d759"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "2868855bd6b90b1fad1c3210715fc403029f4e66368a7100854aed359005d2e4"
 metafile = true
@@ -110,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "2630ad55b9b72178e1321cd627b33e7765b127656b6a7996dd75f1eba1f25ca0"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "a529df9a235982515bc66c2567be02ce8f5f4e78876ffcc89b55d7e1fe1647ce"
 metafile = true
 
 [[files]]
@@ -190,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "c569b1a5a9e540980bdd1cc2fec84e76fc0a69542148141fb0e76771cf83bbbd"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "77d3a23b12525656517cc9fbecc8ad0fef9c216c8ceb30cffc48aaf851d1b01b"
 metafile = true
 
 [[files]]
