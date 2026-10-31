@@ -253,6 +253,11 @@ hash = "7c323d0b883a0178d2fbb6c5da22e907420e06484a00c18bfe8c19ccbe502833"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "78b84b28e52cb5378fb3fd990c879d3fc0c6530a9ce091a7147d11e0d5e046f7"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "d9fb99d40b6e4a05425c7ee0bb455c6c3cfd5771da6b0449e48caf083b89b8d3"
 metafile = true
