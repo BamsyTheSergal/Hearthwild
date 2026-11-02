@@ -128,6 +128,11 @@ hash = "112e24e1da0dc7d78902432bd27f9e2269c3c7f7889e575a76f011b69938a0f5"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "c13cf3374695e038c258949a0ad2c10eeaa8c53695038317339c52938085ed23"
+metafile = true
+
+[[files]]
 file = "mods/dont-spawn-on-me.pw.toml"
 hash = "3f64dac9a65ec6036f48a9d397912536731105720f6f1d234d21c646d202f855"
 metafile = true
