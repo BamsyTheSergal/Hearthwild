@@ -387,6 +387,11 @@ hash = "e71adfdcf4410ae06c0f962d87096c58379e63d7f4c2678af46ba41999cbb718"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-prospecting.pw.toml"
+hash = "5f1a791eb2e93ea4bca4a8031bab75886a1b9c4a9defe6f554123a67e7e9c0ba"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-quenching.pw.toml"
 hash = "6519025978158e9bfcce264c180de86844efb0e06cad7689587e6a8dc8408c7d"
 metafile = true

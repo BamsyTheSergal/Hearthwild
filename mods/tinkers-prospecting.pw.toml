@@ -1,0 +1,8 @@
+name = "tinkers-prospecting"
+filename = "tinkers_prospecting-1.20.1-0.2.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/BamsyTheSergal/Hearthwild/raw/refs/heads/main/tinkers_prospecting-1.20.1-0.2.6.jar"
+hash-format = "sha256"
+hash = "db10163afcdd78d9dc38c54c5757ff5dc623a50859af3a21b242a84b1ca7b9fc"
