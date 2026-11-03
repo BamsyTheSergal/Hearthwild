@@ -133,6 +133,11 @@ hash = "112e24e1da0dc7d78902432bd27f9e2269c3c7f7889e575a76f011b69938a0f5"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "c4402050d2a686cecc112aee451709d33c7c367021e6527a3786a0c458026d8f"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "c13cf3374695e038c258949a0ad2c10eeaa8c53695038317339c52938085ed23"
 metafile = true
@@ -305,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "6b5c660e93a9cc570ca02a75e0ebf5107960fb39949877e9af7886f0c14483c2"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "58f5287a228d8feeed9ff1110b71cea3520b7c26187fa957834b65ac28044bda"
 metafile = true
 
 [[files]]
