@@ -1,0 +1,43 @@
+{
+  "type": "geolosys:deposit_layer",
+  "config": {
+    "yMin": -64,
+    "yMax": -52,
+    "radius": 2,
+    "depth": 4,
+    "biomeTag": "#minecraft:is_overworld",
+    "blockStateMatchers": [
+      "minecraft:stone",
+      "minecraft:deepslate"
+    ],
+    "blocks": {
+      "default": [
+        {
+          "block": "kubejs:rich_anthracite_coal_ore",
+          "chance": 0.6
+        },
+        {
+          "block": "geolosys:anthracite_coal_ore",
+          "chance": 0.4
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "kubejs:rich_deepslate_anthracite_coal_ore",
+          "chance": 0.6
+        },
+        {
+          "block": "geolosys:deepslate_anthracite_coal_ore",
+          "chance": 0.4
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geolosys:anthracite_coal_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 1
+  }
+}

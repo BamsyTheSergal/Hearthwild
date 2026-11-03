@@ -1,0 +1,42 @@
+{
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": -64,
+    "yMax": 32,
+    "size": 24,
+    "biomeTag": "#minecraft:is_overworld",
+    "blockStateMatchers": [
+      "minecraft:stone",
+      "minecraft:deepslate"
+    ],
+    "blocks": {
+      "default": [
+        {
+          "block": "kubejs:rich_gold_ore",
+          "chance": 0.6
+        },
+        {
+          "block": "geolosys:gold_ore",
+          "chance": 0.4
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "kubejs:rich_deepslate_gold_ore",
+          "chance": 0.6
+        },
+        {
+          "block": "geolosys:deepslate_gold_ore",
+          "chance": 0.4
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geolosys:gold_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 1
+  }
+}
