@@ -217,11 +217,6 @@ hash = "6636848fc9ee060dc3cdabab2bac8d36e7414e0d149f365a5f88e16ed107c832"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorter.pw.toml"
-hash = "f9de7fb14787de26d5991d018bc4d9df8eaf080c390c09997627b3f526599115"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "c569b1a5a9e540980bdd1cc2fec84e76fc0a69542148141fb0e76771cf83bbbd"
 metafile = true
