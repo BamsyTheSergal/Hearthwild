@@ -33,20 +33,12 @@ file = "kubejs/assets/kubejs/textures/block/rich_limonite_ore.png"
 hash = "746bd4bff593681bc5dbda833e5ac0ff96a76a2a4b05dfd92e924f611bde5bfd"
 
 [[files]]
-file = "kubejs/data/custom_ores/deposits/ore/poor_hematite.json"
-hash = "2726364c1c9c40f3d0fbee09df3b57c163a31687cb20f4e2c0575e4855400c05"
+file = "kubejs/data/custom_ores/deposits/ore/hematite.json"
+hash = "10300e54ea3d4f069f1fdb6c12e587b1aa8c0d8de80af4d76206c964e0e812bb"
 
 [[files]]
-file = "kubejs/data/custom_ores/deposits/ore/poor_limonite.json"
-hash = "e243005fcfbf7ccec8f6a3ce06a0cc6c6aab706013fb4fd2b7c4296d267ee420"
-
-[[files]]
-file = "kubejs/data/custom_ores/deposits/ore/rich_hematite.json"
-hash = "4404bee68972b9bf862a1d1790db6f2cdeaf4969110aea42fa31d2e4ffb67978"
-
-[[files]]
-file = "kubejs/data/custom_ores/deposits/ore/rich_limonite.json"
-hash = "295a098bd3e8f3442be2baa303cd36d7e799d15c22e17cdd9bc508e37c325df6"
+file = "kubejs/data/custom_ores/deposits/ore/limonite.json"
+hash = "ae145bc1612245bbd2ac7f9e20fc4321df2dc23f39b012a449339acae17a0534"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_tables/blocks/poor_deepslate_hematite_ore.json"
@@ -94,7 +86,7 @@ hash = "b9224dfe8ad465fdc386c69756c514733f1d41024ac9cc9272fdaa9d2a914c0c"
 
 [[files]]
 file = "kubejs/startup_scripts/rich_poor_iron_ores.js"
-hash = "cd31b10e4ffb85cbe72cf3ad016e9a82e5ae9d50d1393773024b484d7d9b4b7a"
+hash = "8337b08ef90c7aad82b5c0e46b8f3f398c8ed4683dac3e0fe93a65a268d92e81"
 
 [[files]]
 file = "mods/amendments.pw.toml"
