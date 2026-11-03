@@ -1,0 +1,50 @@
+{
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": -30,
+    "yMax": 45,
+    "size": 20,
+    "biomeTag": "#geolosys:all_dimensions",
+    "blockStateMatchers": [
+      "minecraft:stone",
+      "minecraft:deepslate"
+    ],
+    "blocks": {
+      "default": [
+        {
+          "block": "kubejs:rich_hematite_ore",
+          "chance": 0.5
+        },
+        {
+          "block": "geolosys:hematite_ore",
+          "chance": 0.35
+        },
+        {
+          "block": "kubejs:poor_hematite_ore",
+          "chance": 0.15
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "kubejs:rich_deepslate_hematite_ore",
+          "chance": 0.5
+        },
+        {
+          "block": "geolosys:deepslate_hematite_ore",
+          "chance": 0.35
+        },
+        {
+          "block": "kubejs:poor_deepslate_hematite_ore",
+          "chance": 0.15
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geolosys:hematite_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 1
+  }
+}

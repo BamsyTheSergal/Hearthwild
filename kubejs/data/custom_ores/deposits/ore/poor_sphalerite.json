@@ -14,21 +14,37 @@
       "default": [
         {
           "block": "kubejs:poor_sphalerite_ore",
-          "chance": 0.8
+          "chance": 0.6
+        },
+        {
+          "block": "geolosys:sphalerite_ore",
+          "chance": 0.25
+        },
+        {
+          "block": "kubejs:rich_sphalerite_ore",
+          "chance": 0.05
         },
         {
           "block": null,
-          "chance": 0.2
+          "chance": 0.1
         }
       ],
       "minecraft:deepslate": [
         {
           "block": "kubejs:poor_deepslate_sphalerite_ore",
-          "chance": 0.8
+          "chance": 0.6
+        },
+        {
+          "block": "geolosys:deepslate_sphalerite_ore",
+          "chance": 0.25
+        },
+        {
+          "block": "kubejs:rich_deepslate_sphalerite_ore",
+          "chance": 0.05
         },
         {
           "block": null,
-          "chance": 0.2
+          "chance": 0.1
         }
       ]
     },

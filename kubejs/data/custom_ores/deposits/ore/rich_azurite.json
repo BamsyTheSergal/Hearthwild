@@ -13,21 +13,29 @@
       "default": [
         {
           "block": "kubejs:rich_azurite_ore",
-          "chance": 0.6
+          "chance": 0.5
         },
         {
           "block": "geolosys:azurite_ore",
-          "chance": 0.4
+          "chance": 0.35
+        },
+        {
+          "block": "kubejs:poor_azurite_ore",
+          "chance": 0.15
         }
       ],
       "minecraft:deepslate": [
         {
           "block": "kubejs:rich_deepslate_azurite_ore",
-          "chance": 0.6
+          "chance": 0.5
         },
         {
           "block": "geolosys:deepslate_azurite_ore",
-          "chance": 0.4
+          "chance": 0.35
+        },
+        {
+          "block": "kubejs:poor_deepslate_azurite_ore",
+          "chance": 0.15
         }
       ]
     },
