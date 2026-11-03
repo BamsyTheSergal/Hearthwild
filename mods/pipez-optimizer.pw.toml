@@ -1,0 +1,13 @@
+name = "Pipez Optimizer"
+filename = "pipez_optimizer-1.0.10-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HVAFkCTk/versions/yg66Aeew/pipez_optimizer-1.0.10-1.20.1.jar"
+hash-format = "sha256"
+hash = "3b26bf90f505c21b378e932a5a37418e53e52f9dbe0e8ad8f6a953a657c4c70d"
+
+[update]
+[update.modrinth]
+mod-id = "HVAFkCTk"
+version = "yg66Aeew"

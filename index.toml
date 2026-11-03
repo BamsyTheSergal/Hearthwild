@@ -113,6 +113,11 @@ hash = "ba33aa23460e403c3572daa01cdffef1c48bbc371851216caa5c7bc7b3aaf7c6"
 metafile = true
 
 [[files]]
+file = "mods/cerulean-advancements.pw.toml"
+hash = "12be97badc5c5a5b0bd0d78723fcc1e245b4ec6eae79ee155f2ed24848938e1e"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "2630ad55b9b72178e1321cd627b33e7765b127656b6a7996dd75f1eba1f25ca0"
 metafile = true
@@ -160,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4acc2c7bde66e6cd4940978ce206bde20e2ce512b1bd2c3f669864555fa79a1a"
+metafile = true
+
+[[files]]
+file = "mods/flerovium.pw.toml"
+hash = "36b8b95d52118d63bffae078123a685f0d447dba74d141a6aadc8b4767ee4055"
 metafile = true
 
 [[files]]
@@ -258,8 +268,28 @@ hash = "7c323d0b883a0178d2fbb6c5da22e907420e06484a00c18bfe8c19ccbe502833"
 metafile = true
 
 [[files]]
+file = "mods/obe.pw.toml"
+hash = "3c11398b55895017336da215e7b516d19ce136ddf460d5f4845d968e39128a00"
+metafile = true
+
+[[files]]
+file = "mods/pipez-optimizer.pw.toml"
+hash = "bc795f997260697ca336c302bbd91c06037ae6600a1f0a1bb1e9829506d4f275"
+metafile = true
+
+[[files]]
 file = "mods/pipez.pw.toml"
 hash = "78b84b28e52cb5378fb3fd990c879d3fc0c6530a9ce091a7147d11e0d5e046f7"
+metafile = true
+
+[[files]]
+file = "mods/put-a-plug-in-it.pw.toml"
+hash = "97be7aa468365ed359100d9cd786ee0ede1ec626ee824a46a3799fb012835c96"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "28e4ebc0980231b0458e96c6f67851bbce53a0c63033a59f622df5fa4a3ebed3"
 metafile = true
 
 [[files]]
@@ -365,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "7e5ad3ab8c86e91909375084538512a547b841ef78b3b9293441185a5fbda933"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "77cb247ecd089783fa77878ed4b9afdec3a7f052d605382a39af5ebf1a925924"
 metafile = true
 
 [[files]]
