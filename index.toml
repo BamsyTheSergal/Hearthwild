@@ -268,6 +268,11 @@ hash = "7c323d0b883a0178d2fbb6c5da22e907420e06484a00c18bfe8c19ccbe502833"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "fa0269f04f3b8593693dea03b0a9533c9247715d906da9516d51d0998bfd3d33"
+metafile = true
+
+[[files]]
 file = "mods/obe.pw.toml"
 hash = "3c11398b55895017336da215e7b516d19ce136ddf460d5f4845d968e39128a00"
 metafile = true
@@ -300,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "6b5c660e93a9cc570ca02a75e0ebf5107960fb39949877e9af7886f0c14483c2"
+metafile = true
+
+[[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "2072fd12d2c469d11f656b202967fc71e9f04708804301d40ddf5f2af6818f05"
 metafile = true
 
 [[files]]
