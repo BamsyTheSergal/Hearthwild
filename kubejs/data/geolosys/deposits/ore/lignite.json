@@ -1,0 +1,69 @@
+{
+  "type": "geolosys:deposit_layer",
+  "config": {
+    "yMin": -4,
+    "yMax": 32,
+    "radius": 3,
+    "depth": 4,
+    "biomeTag": "#minecraft:is_overworld",
+    "blocks": {
+      "default": [
+        {
+          "block": "geolosys:lignite_ore",
+          "chance": 0.5
+        },
+        {
+          "block": "kubejs:poor_lignite_ore",
+          "chance": 0.3
+        },
+        {
+          "block": "kubejs:rich_lignite_ore",
+          "chance": 0.2
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "geolosys:deepslate_lignite_ore",
+          "chance": 0.5
+        },
+        {
+          "block": "kubejs:poor_deepslate_lignite_ore",
+          "chance": 0.3
+        },
+        {
+          "block": "kubejs:rich_deepslate_lignite_ore",
+          "chance": 0.2
+        }
+      ],
+      "minecraft:tuff": [
+        {
+          "block": "geolosys:deepslate_lignite_ore",
+          "chance": 0.5
+        },
+        {
+          "block": "kubejs:poor_deepslate_lignite_ore",
+          "chance": 0.3
+        },
+        {
+          "block": "kubejs:rich_deepslate_lignite_ore",
+          "chance": 0.2
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geolosys:lignite_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 7,
+    "blockStateMatchers": [
+      "minecraft:stone",
+      "minecraft:granite",
+      "minecraft:diorite",
+      "minecraft:andesite",
+      "minecraft:deepslate",
+      "minecraft:tuff"
+    ]
+  }
+}

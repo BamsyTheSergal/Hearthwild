@@ -1,0 +1,69 @@
+{
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": 44,
+    "yMax": 68,
+    "size": 24,
+    "density": 1.0,
+    "biomeTag": "#geolosys:is_sandy",
+    "blocks": {
+      "default": [
+        {
+          "block": "geolosys:cassiterite_ore",
+          "chance": 0.5
+        },
+        {
+          "block": "kubejs:poor_cassiterite_ore",
+          "chance": 0.3
+        },
+        {
+          "block": "kubejs:rich_cassiterite_ore",
+          "chance": 0.2
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "geolosys:deepslate_cassiterite_ore",
+          "chance": 0.5
+        },
+        {
+          "block": "kubejs:poor_deepslate_cassiterite_ore",
+          "chance": 0.3
+        },
+        {
+          "block": "kubejs:rich_deepslate_cassiterite_ore",
+          "chance": 0.2
+        }
+      ],
+      "minecraft:tuff": [
+        {
+          "block": "geolosys:deepslate_cassiterite_ore",
+          "chance": 0.5
+        },
+        {
+          "block": "kubejs:poor_deepslate_cassiterite_ore",
+          "chance": 0.3
+        },
+        {
+          "block": "kubejs:rich_deepslate_cassiterite_ore",
+          "chance": 0.2
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geolosys:cassiterite_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 6,
+    "blockStateMatchers": [
+      "minecraft:stone",
+      "minecraft:granite",
+      "minecraft:diorite",
+      "minecraft:andesite",
+      "minecraft:deepslate",
+      "minecraft:tuff"
+    ]
+  }
+}

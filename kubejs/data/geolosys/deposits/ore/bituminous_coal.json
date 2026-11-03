@@ -1,0 +1,69 @@
+{
+  "type": "geolosys:deposit_layer",
+  "config": {
+    "yMin": -32,
+    "yMax": -16,
+    "radius": 4,
+    "depth": 5,
+    "biomeTag": "#minecraft:is_overworld",
+    "blocks": {
+      "default": [
+        {
+          "block": "geolosys:bituminous_coal_ore",
+          "chance": 0.5
+        },
+        {
+          "block": "kubejs:poor_bituminous_coal_ore",
+          "chance": 0.3
+        },
+        {
+          "block": "kubejs:rich_bituminous_coal_ore",
+          "chance": 0.2
+        }
+      ],
+      "minecraft:deepslate": [
+        {
+          "block": "geolosys:deepslate_bituminous_coal_ore",
+          "chance": 0.5
+        },
+        {
+          "block": "kubejs:poor_deepslate_bituminous_coal_ore",
+          "chance": 0.3
+        },
+        {
+          "block": "kubejs:rich_deepslate_bituminous_coal_ore",
+          "chance": 0.2
+        }
+      ],
+      "minecraft:tuff": [
+        {
+          "block": "geolosys:deepslate_bituminous_coal_ore",
+          "chance": 0.5
+        },
+        {
+          "block": "kubejs:poor_deepslate_bituminous_coal_ore",
+          "chance": 0.3
+        },
+        {
+          "block": "kubejs:rich_deepslate_bituminous_coal_ore",
+          "chance": 0.2
+        }
+      ]
+    },
+    "samples": [
+      {
+        "block": "geolosys:bituminous_coal_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 5,
+    "blockStateMatchers": [
+      "minecraft:stone",
+      "minecraft:granite",
+      "minecraft:diorite",
+      "minecraft:andesite",
+      "minecraft:deepslate",
+      "minecraft:tuff"
+    ]
+  }
+}

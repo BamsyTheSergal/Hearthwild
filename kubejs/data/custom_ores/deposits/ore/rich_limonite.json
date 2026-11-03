@@ -7,7 +7,11 @@
     "biomeTag": "#geolosys:all_dimensions",
     "blockStateMatchers": [
       "minecraft:stone",
-      "minecraft:deepslate"
+      "minecraft:granite",
+      "minecraft:diorite",
+      "minecraft:andesite",
+      "minecraft:deepslate",
+      "minecraft:tuff"
     ],
     "blocks": {
       "default": [
@@ -25,6 +29,20 @@
         }
       ],
       "minecraft:deepslate": [
+        {
+          "block": "kubejs:rich_deepslate_limonite_ore",
+          "chance": 0.5
+        },
+        {
+          "block": "geolosys:deepslate_limonite_ore",
+          "chance": 0.35
+        },
+        {
+          "block": "kubejs:poor_deepslate_limonite_ore",
+          "chance": 0.15
+        }
+      ],
+      "minecraft:tuff": [
         {
           "block": "kubejs:rich_deepslate_limonite_ore",
           "chance": 0.5

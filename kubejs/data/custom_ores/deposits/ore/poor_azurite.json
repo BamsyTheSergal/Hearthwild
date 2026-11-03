@@ -7,43 +7,53 @@
     "biomeTag": "#minecraft:is_overworld",
     "blockStateMatchers": [
       "minecraft:stone",
-      "minecraft:deepslate"
+      "minecraft:granite",
+      "minecraft:diorite",
+      "minecraft:andesite",
+      "minecraft:deepslate",
+      "minecraft:tuff"
     ],
     "blocks": {
       "default": [
         {
           "block": "kubejs:poor_azurite_ore",
-          "chance": 0.6
+          "chance": 0.65
         },
         {
           "block": "geolosys:azurite_ore",
-          "chance": 0.25
+          "chance": 0.3
         },
         {
           "block": "kubejs:rich_azurite_ore",
           "chance": 0.05
-        },
-        {
-          "block": null,
-          "chance": 0.1
         }
       ],
       "minecraft:deepslate": [
         {
           "block": "kubejs:poor_deepslate_azurite_ore",
-          "chance": 0.6
+          "chance": 0.65
         },
         {
           "block": "geolosys:deepslate_azurite_ore",
-          "chance": 0.25
+          "chance": 0.3
         },
         {
           "block": "kubejs:rich_deepslate_azurite_ore",
           "chance": 0.05
+        }
+      ],
+      "minecraft:tuff": [
+        {
+          "block": "kubejs:poor_deepslate_azurite_ore",
+          "chance": 0.65
         },
         {
-          "block": null,
-          "chance": 0.1
+          "block": "geolosys:deepslate_azurite_ore",
+          "chance": 0.3
+        },
+        {
+          "block": "kubejs:rich_deepslate_azurite_ore",
+          "chance": 0.05
         }
       ]
     },

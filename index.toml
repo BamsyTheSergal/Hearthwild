@@ -170,83 +170,123 @@ hash = "ae145bc1612245bbd2ac7f9e20fc4321df2dc23f39b012a449339acae17a0534"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/poor_anthracite_coal.json"
-hash = "9dea082b3bbd5304504d0fc0f3df1c0ffc0eb0dc4f316f8335d1f73b84df341e"
+hash = "452521030285cfaafeaace4385a51bdbafc72dabcc63061f2290a8df7d49b054"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/poor_azurite.json"
-hash = "a8800ab0db5ef807fb2545ff7a3e6d0c7ab7e0384899a271fd8ae2c8a2988400"
+hash = "486c4d72504dc55f58001ad44e26bc2873f891afeb7a7b7742fe02ac7b323c58"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/poor_bituminous_coal.json"
-hash = "0c97f264236a6a4d1abb302c453afce363703b7a70ce7915cc6c70b061b6a501"
+hash = "be87a118b314e3c481ac4a6acb4093815c45efed4d141e1b7f146dfb2e681b7c"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/poor_cassiterite.json"
-hash = "8d93bb9cc1e5881aac72a548c2070d25304f1d1ae6aca4918e6919a19bfd6dcd"
+hash = "a94b87ab4b22b0dd44ddc06d7e9b669296f3edfbaa064c629de7166f50a60e5a"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/poor_coal.json"
-hash = "4a942c78bc6c0460350b5b287b66fdd612805b5dad8fb0aa1e6b109386e221cc"
+hash = "658d6c0acbd8dc355924b5d6cc7578d80040812d4d2dbd84f15b390412d5923d"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/poor_gold.json"
-hash = "d011a1920e37b17fc5e52220e22b3d177a6dd18b68c401eef2eedf35c602e42c"
+hash = "35996207a38dfafdb190fbbf34d35c03f279a71ceb7581fbbc06a870a19e9eac"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/poor_hematite.json"
-hash = "f041d7ca6e3baa07f51c3f2313b3a91e33c7f878e7713a4b44812e7aa8297e11"
+hash = "443501bcbceeba3a69776fa852918d392083875d3c5df295e5406236b2f484d1"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/poor_lignite.json"
-hash = "b7841f913fc01b224c7e1bac2ca695930073c8dbc399c628e113e39c18bfecc7"
+hash = "1ce7e0ba1ac207e42b9dbe9c776d5a16166f5e5b84489c5a4ae3a2b91e62621b"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/poor_limonite.json"
-hash = "ef4389e506e3f6bcda6bfaf44510ce04ba72d51fab78e81689efab452d4c9781"
+hash = "2197819b5b4ba57518011188f75bd11a116f14ce147a5eb210077a0fdb763a61"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/poor_sphalerite.json"
-hash = "975bf863ee9da19ee73f6148c5d9966726e6f5d5b239bc161f54af02175c8854"
+hash = "ea7d343269ee2e470097ef3c2f2f096b2e2c2852438c4d695fa2433b4eb166ce"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/rich_anthracite_coal.json"
-hash = "91071a479ff2a69392d026b8fbead7b7f112610922c88aef7fd564b0fb8a563e"
+hash = "71d37dc148e1e12d28272030c8ab444f547adf38ebb0db3aea64660149c34a9f"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/rich_azurite.json"
-hash = "9f4a6980d4ba5b1d1dc2ae8b4efc933af216d8ebf81e23fca5fc1d642af33111"
+hash = "ed88db118945ac73a082db26adf526622f8d2bdefa7fc661485f58acff5a5a19"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/rich_bituminous_coal.json"
-hash = "17c107268dd0f85d99851302168c55c30fbb6eb7fd36026f089d8b2acc6f510d"
+hash = "a707ae68eee3062290f879796473143a89c4e9c3f128095db0c6f1fbc3494d0a"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/rich_cassiterite.json"
-hash = "6095222f0f4e300686b5028783d122317e39f897a5b718a3fb81c6f0249af9bf"
+hash = "23d7269c4af6b42d1fbb4e3161604cd2516485503b87ba2a7bb26d9d268cc3bc"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/rich_coal.json"
-hash = "eee7da07ff48ac70592c2b58748b31edda0432bc34a041489e1850d619e31707"
+hash = "b51b160ea6d42f8b6018f31229d34f1a3bb1275fee2846b6809c5b7ced1cb6b8"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/rich_gold.json"
-hash = "46ec6983cf9600cf00841fb5375bbb2b66a06a65ff47b7a8ac76b962094d64d2"
+hash = "d266f7b9546970f8f6a09d98273d9f8ef67db3e163114d53137141e35016e95f"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/rich_hematite.json"
-hash = "7bb221957e7a1383da4015500f2fcf9d7794844403ae3c13164ce61657b5417a"
+hash = "bb3865d1fd308d960782a78350f7a576bc734811b9b469cfb7ea19ba4a919978"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/rich_lignite.json"
-hash = "bf40c28e5cb53563e9db452f161323ecdf21bb7d089e69983adceac4092c3eef"
+hash = "979d9743364de17eb029046113ff1a0a153262bd87ac1389c9afe0b67b5ee7d6"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/rich_limonite.json"
-hash = "7c8cffe30547361cf3076c222926cb4000924d701b08dccc6cd407c3e1e8434a"
+hash = "8ea233ca73eb1a250c3b18ae714e3327db30be04a5f5fd1f63b64b84628a1d72"
 
 [[files]]
 file = "kubejs/data/custom_ores/deposits/ore/rich_sphalerite.json"
-hash = "c6b2cbfd449c8db44b7e5df240e53c946ab1db93a615643337d1da3a13d6dc65"
+hash = "25e63e191ecf6eff177ec5ec10520f48b603ce0c93db993e8eba4063851b098e"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/anthracitic_coal.json"
+hash = "c2f75e1299bcd6daa717fb7e69f6779dabeb7ff52660cbe354b53def9a6638a3"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/azurite.json"
+hash = "a12597310a83b2f6af512945bfe58563af5082ef92b265e7ef8599ceaf5892a6"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/bituminous_coal.json"
+hash = "5707c1b9f739aadc9aa766bcf99862b049970b7321fb1ddfef2f4926a998a7af"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/cassiterite.json"
+hash = "df75fd0eb4dbc71ab2dfde58daa24009dada96701fef0f75595551b1ca6218f3"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/coal.json"
+hash = "0fbc9b62de7bde55acf5d2f66131fabd273e0d8ef0359bcbd2dc2d6cf60ede21"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/gold.json"
+hash = "aaad85631b06ab39a68a1ec0a07c5b7d855a45c1d30de22b1552e0755f37fa68"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/hematite.json"
+hash = "343ff38bca43b75fec816b26aa7d51aff44df9c76e7309609efced31607967c4"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/lignite.json"
+hash = "84e4be4aff3f7449ed1a70a02372002da6f12df1f5899f82d3d4671fa4d1bb8b"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/limonite.json"
+hash = "107b1e8945a77973f3359547ef292673eac6a15c168d5fb89729cd2ae5d3522d"
+
+[[files]]
+file = "kubejs/data/geolosys/deposits/ore/sphalerite.json"
+hash = "47ebb0d9d303e3c1d1b8ffad152df8ee0f592c854783ec4907ed993ec644a375"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_tables/blocks/poor_anthracite_coal_ore.json"
