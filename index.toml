@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-prospecting.pw.toml"
-hash = "372524f069168d2dd16ca9ff60299e53a500d4d3f0820f0315dbdf15147147bd"
+hash = "db54b9db48ee3a9749595c48e5a2a2b888cb66ae8989decc10c86d107db55f01"
 metafile = true
 
 [[files]]
