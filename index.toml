@@ -545,6 +545,11 @@ hash = "4acc2c7bde66e6cd4940978ce206bde20e2ce512b1bd2c3f669864555fa79a1a"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "e77cab3efc3ae0869779603b18def1446a570ed3d36cff71bb96c0e1a4273919"
+metafile = true
+
+[[files]]
 file = "mods/flerovium.pw.toml"
 hash = "36b8b95d52118d63bffae078123a685f0d447dba74d141a6aadc8b4767ee4055"
 metafile = true
