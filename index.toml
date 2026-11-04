@@ -515,11 +515,6 @@ hash = "c13cf3374695e038c258949a0ad2c10eeaa8c53695038317339c52938085ed23"
 metafile = true
 
 [[files]]
-file = "mods/distraction-free-recipes.pw.toml"
-hash = "086bd8c63c7c39fede5cb998c9e851fbb44dac66cc1dbe11f1151b69594ebbb6"
-metafile = true
-
-[[files]]
 file = "mods/dont-spawn-on-me.pw.toml"
 hash = "3f64dac9a65ec6036f48a9d397912536731105720f6f1d234d21c646d202f855"
 metafile = true
@@ -592,11 +587,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "6636848fc9ee060dc3cdabab2bac8d36e7414e0d149f365a5f88e16ed107c832"
-metafile = true
-
-[[files]]
-file = "mods/jei-enhancements.pw.toml"
-hash = "ca047cfa83a87f7e87030ffa4f69cdaf14abb723e84fb49df23fa78a11950860"
 metafile = true
 
 [[files]]
