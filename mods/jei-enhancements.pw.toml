@@ -1,0 +1,13 @@
+name = "JEI Enhancements"
+filename = "jei_enhancements-1.20.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6n995rcN/versions/bDWK03vZ/jei_enhancements-1.20.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "fbfd5677a00c7bbba044d15f6324799de6b5c70bfa6d7d9d070721e52280928f"
+
+[update]
+[update.modrinth]
+mod-id = "6n995rcN"
+version = "bDWK03vZ"
