@@ -725,11 +725,6 @@ hash = "00567f89ff73d7bae2fc7d4e3aab2dc82c96a38bcd20be291d38bab4e5129c77"
 metafile = true
 
 [[files]]
-file = "mods/tconjei.pw.toml"
-hash = "285095c950a92ac3f529e1094de65f790f8195ec24606bfb977726eae2d51233"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "3ea51b5123ab705b054964f21f0906f36e295e2307f034105d51798566a9919d"
 metafile = true
