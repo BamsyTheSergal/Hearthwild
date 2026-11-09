@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7tEfOcA7/versions/JNK7WlpZ/mezz_config-1.20.1-forge-0.6.11.jar"
-hash-format = "sha512"
-hash = "7ed3fb337b34b1b2c4ac3087ed88bfbc5e58d77280139c33bd2a40239f7a19ef3f76a563858b4d0895116352c21fa5a921192ee358e3fd8b06b012299f6afd53"
+hash-format = "sha256"
+hash = "4f0322ba8de6e313e85a6706b1a19953c332a69979166c101e5bf3ae8f7198c7"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rGNPldmX/versions/QRdxL3Um/UltimineUnchained-2.2.0-FORGE.jar"
-hash-format = "sha512"
-hash = "db4beddffc59568734298ae7f546892d70d9d3a7c555be9a44274d439a9f69513724df5da8f2355d7e92773f298234e7065f9086cc946699a171f26d2ccb7ba3"
+hash-format = "sha256"
+hash = "0e534bc043961992a3f1cc51170f840a56624607642e25f19968284a8af6e471"
 
 [update]
 [update.modrinth]
