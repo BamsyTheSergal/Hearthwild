@@ -1,13 +1,13 @@
 name = "Ultimine Unchained"
-filename = "UltimineUnchained-2.1.0-FORGE.jar"
+filename = "UltimineUnchained-2.2.0-FORGE.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rGNPldmX/versions/7nVDDDfP/UltimineUnchained-2.1.0-FORGE.jar"
-hash-format = "sha256"
-hash = "2fe8789ea56deee7b7704c7948571307fdeb453049003ec3fd340b21bec69a9f"
+url = "https://cdn.modrinth.com/data/rGNPldmX/versions/QRdxL3Um/UltimineUnchained-2.2.0-FORGE.jar"
+hash-format = "sha512"
+hash = "db4beddffc59568734298ae7f546892d70d9d3a7c555be9a44274d439a9f69513724df5da8f2355d7e92773f298234e7065f9086cc946699a171f26d2ccb7ba3"
 
 [update]
 [update.modrinth]
 mod-id = "rGNPldmX"
-version = "7nVDDDfP"
+version = "QRdxL3Um"
