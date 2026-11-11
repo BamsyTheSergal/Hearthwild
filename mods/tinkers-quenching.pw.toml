@@ -1,8 +1,8 @@
 name = "Tinkers Quenching"
-filename = "tinkers_quenching-0.4.2.jar"
+filename = "tinkers_quenching-0.4.4.jar"
 side = "both"
 
 [download]
-url = "https://github.com/BamsyTheSergal/Hearthwild/raw/refs/heads/main/tinkers_quenching-0.4.2.jar"
+url = "https://github.com/BamsyTheSergal/Hearthwild/raw/refs/heads/main/tinkers_quenching-0.4.4.jar"
 hash-format = "sha256"
-hash = "fb8f99f8f41b13c3ab6b909f7faa8b3113fa35abce80b01a4cc388dce1643001"
+hash = "66561dd556e6baf3f0e2b759da8e07a92ea73358c19abe5c6185f7fc3ee80a7e"
