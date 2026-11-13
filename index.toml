@@ -786,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-quenching.pw.toml"
-hash = "35c0540e98ca9be384a28e3964a0f66c2b2f7a3dcd1b308624724f22799b602d"
+hash = "6bf89499259678b4c7948b874ae728a6fd694568edb50eb80ed05363227405a1"
 metafile = true
 
 [[files]]
