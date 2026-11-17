@@ -585,6 +585,11 @@ hash = "dc7ac5b7189d8a56363a3a0dcd58e833e6643100c2f99957525458e908654b9a"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
+metafile = true
+
+[[files]]
 file = "mods/geolosys.pw.toml"
 hash = "dfb799530694f9e6ab122b6dd5b0f1aed44b08a72f3e78853b899a2ca291d069"
 metafile = true
@@ -597,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "6636848fc9ee060dc3cdabab2bac8d36e7414e0d149f365a5f88e16ed107c832"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "561b47425324508d1e3df7e1632fbb163513390d83919baba4d2a6d863ec7137"
 metafile = true
 
 [[files]]
@@ -692,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/pipez.pw.toml"
 hash = "78b84b28e52cb5378fb3fd990c879d3fc0c6530a9ce091a7147d11e0d5e046f7"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
