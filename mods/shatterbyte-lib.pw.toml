@@ -1,13 +1,13 @@
 name = "ShatterLib | OctoLib"
-filename = "OctoLib-FORGE-0.5.0.1+1.20.1.jar"
+filename = "OctoLib-FORGE-0.5.0.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/HZ7KmyXp/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047"
+url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/DIrIERJm/OctoLib-FORGE-0.5.0.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "fd60f9661bbfa532a87e9b1c40de44f2429a7ebed7e6ff4ccf680d0540ae78cf2bfa7c78910f8a36c9f6dcafb7a2fdab48c03e37397733cb3877034477248616"
 
 [update]
 [update.modrinth]
 mod-id = "RH2KUdKJ"
-version = "HZ7KmyXp"
+version = "DIrIERJm"

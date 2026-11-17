@@ -3,8 +3,8 @@ filename = "Tinkers-Mugs-1.20.1-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "8367e0e2a578bdc84e014325acba5f143a26a9b2c9dda06fa13e0bed9076537f"
+hash-format = "sha1"
+hash = "f731108e035e04d5fedff3eb97f5f75795d8f820"
 mode = "metadata:curseforge"
 
 [update]

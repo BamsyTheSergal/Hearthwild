@@ -1,8 +1,13 @@
-name = "Tinkers Quenching"
-filename = "tinkers_quenching-0.4.7.jar"
+name = "Tinkers' Quenching"
+filename = "tinkers_quenching-0.5.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/BamsyTheSergal/Hearthwild/raw/refs/heads/main/tinkers_quenching-0.4.7.jar"
-hash-format = "sha256"
-hash = "70f50f125b8e8cb07b612f5213a89bf6e77437d0a99edc550c303dd96e6c7fa7"
+hash-format = "sha1"
+hash = "7766d34bb2308caa36f80f971fdbe8d0dbdf6d99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9669794
+project-id = 1798700

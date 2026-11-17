@@ -1,13 +1,13 @@
 name = "Pipez Optimizer"
-filename = "pipez_optimizer-1.0.10-1.20.1.jar"
+filename = "pipez_optimizer-1.0.11-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HVAFkCTk/versions/yg66Aeew/pipez_optimizer-1.0.10-1.20.1.jar"
-hash-format = "sha256"
-hash = "3b26bf90f505c21b378e932a5a37418e53e52f9dbe0e8ad8f6a953a657c4c70d"
+url = "https://cdn.modrinth.com/data/HVAFkCTk/versions/8cXdXJ4u/pipez_optimizer-1.0.11-1.20.1.jar"
+hash-format = "sha512"
+hash = "d376eb23cf11c332ca5a2a6bda898d73f0a6022cbb229f4331d15dca455cd2234de1075ae3bbb8d83f8ddca6aa0bf8618df5a0b8e59e66add9742bb9fc3ef734"
 
 [update]
 [update.modrinth]
 mod-id = "HVAFkCTk"
-version = "yg66Aeew"
+version = "8cXdXJ4u"
