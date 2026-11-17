@@ -1,0 +1,13 @@
+name = "The Joy Of Tinkering"
+filename = "joy_of_tinkering-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eZAEVnzx/versions/af8oXsEU/joy_of_tinkering-1.0.0.jar"
+hash-format = "sha512"
+hash = "08bdabb6b41e09be1e18528bdf9e0a65e69ad1ee034f7982a679cc56e160a262eee4405a73b1527ee433be4ed3ca4ec097450999912a846c4758241dfa6da315"
+
+[update]
+[update.modrinth]
+mod-id = "eZAEVnzx"
+version = "af8oXsEU"

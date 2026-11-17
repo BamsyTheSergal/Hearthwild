@@ -1,0 +1,13 @@
+name = "Construct's Casting"
+filename = "constructs_casting-2.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nuBOPsPE/versions/UYAU4ZNo/constructs_casting-2.2.5.jar"
+hash-format = "sha512"
+hash = "4973b2d14a3602b9353acd79bae1ed32684da502de13b7ee64d7e757768f18903e89f770d263e1fb822c50191c0d9f632ec4a2c323f163552fd49433fdef8d67"
+
+[update]
+[update.modrinth]
+mod-id = "nuBOPsPE"
+version = "UYAU4ZNo"
